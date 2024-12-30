@@ -17,6 +17,8 @@ someone who like to sleep
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=art3m1sz&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+[![](https://visitcount.itsvg.in/api?id=art3m1sz&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <div align="center">
   <a href="https://open.spotify.com/user/29nbq8ii9b2864aw7whyzgv86">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=29nbq8ii9b2864aw7whyzgv86&count=5" alt="Spotify recently played"  />
@@ -26,6 +28,6 @@ someone who like to sleep
 ###
 
 ---
-[![](https://visitcount.itsvg.in/api?id=art3m1sz&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
