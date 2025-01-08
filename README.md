@@ -1,4 +1,5 @@
 # 💫 About Me:
+Frontend Web Developer
 someone who like to sleep <br>
 heaven knows i'm miserable now
 
