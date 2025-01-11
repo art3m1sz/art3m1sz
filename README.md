@@ -1,6 +1,6 @@
 # 💫 About Me:
 Frontend Developer who like to sleep <br>
-heaven knows i'm miserable now
+heaven knows i'm miserable noww
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/no.more.yahallo) 
