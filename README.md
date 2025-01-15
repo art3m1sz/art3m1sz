@@ -1,5 +1,5 @@
 # 💫 About Me:
-Frontend Developer who like to sleep <br>
+Frontend Developer who like to sleep  <br>
 heaven knows i'm miserable now
 
 ## 🌐 Socials:
